@@ -1,0 +1,8 @@
+artifacts/
+dist/
+node_modules/
+sensor-helper/bin/
+sensor-helper/obj/
+sensor-helper/publish/
+src-tauri/gen/
+src-tauri/target/

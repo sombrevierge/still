@@ -1,0 +1,15 @@
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/gen/
+.DS_Store
+*.log
+.idea/
+.vscode/
+artifacts/
+sensor-helper/bin/
+sensor-helper/obj/
+sensor-helper/publish*/
+.env
+.env.*
+!.env.example
